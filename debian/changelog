@@ -1,0 +1,15 @@
+ros-crystal-ets-plugin (0.1.1-2bionic) bionic; urgency=high
+
+  * Add some more parameters
+    Specifically acceleration, engine_running, world_placement (x,y,z,
+    heading,pitch,roll)
+  * Add trailer_connected value
+  * Add RPM value
+  * Fixed unused-parameter warnings
+  * Add missing CMakeLists files
+  * Initial commit
+  * Contributors: Bruno Demartino, Hernán Gonzalez
+
+ -- Bruno Demartino <demartinoba@gmail.com>  Tue, 04 Jun 2019 03:00:00 -0000
+
+
