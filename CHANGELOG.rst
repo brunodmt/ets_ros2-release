@@ -2,6 +2,11 @@
 Changelog for package ets_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2019-06-09)
+------------------
+* Add parking brake status
+* Contributors: Hernán Gonzalez
+
 0.1.1 (2019-06-04)
 ------------------
 * Add some more parameters
